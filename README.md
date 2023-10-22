@@ -14,7 +14,7 @@ The program will prompt the user to select a model and dress style. Using a conv
 
 ## How to Run
 
-This can be run by downloading the project, installing Python along with the required Python packages listed in [requirements.txt](https://github.com/amklin/Virtual-Hanfu-Fitting-Room-Image-Artist-Project/blob/b3c7a9b07220778f43d49ab87c8b17789608d0e8/requirements.txt), and running the [image_artist.py](https://github.com/amklin/Virtual-Hanfu-Fitting-Room-Image-Artist-Project/blob/b3c7a9b07220778f43d49ab87c8b17789608d0e8/image_artist.py) file.
+This can be run by downloading the project, installing Python along with the required Python packages listed in [requirements.txt](https://github.com/amklin/Virtual-Hanfu-Fitting-Room-Image-Artist-Project/blob/b3c7a9b07220778f43d49ab87c8b17789608d0e8/requirements.txt), and running the [image_artist.py](https://github.com/amklin/Virtual-Hanfu-Fitting-Room-Image-Artist-Project/blob/b3c7a9b07220778f43d49ab87c8b17789608d0e8/image_artist.py) file. The program will prompt the user to select the model and dress in the command line and save the final result in the Results folder.
 
 ## Contributors
 
