@@ -6,7 +6,7 @@ This is a project created as part of the Computer Science and Software Engineeri
 
 ## Program Description
 
-The program will prompt the user to select a model and dress style. Using a convolutional neural network, the program will locate the position of the model's face annd paste an image of a dress on a model, allowing the user to visualize what the dress would look like on a person. 
+The program will prompt the user to select a model and dress style. Using a convolutional neural network, the program will locate the position of the model's face and paste an image of a dress on a model, allowing the user to visualize what the dress would look like on a person. 
 
 ## Languages 
 
